@@ -1,0 +1,243 @@
+
+html body {margin: 52px 0 0 0;
+			width: 960px;
+			height: 960px;
+			}
+
+
+
+
+
+header {
+		position: fixed;
+		width: 100%;
+		top: 0;
+		background-color: #ffffff;
+		border-bottom: 3px #cccccc solid;
+		z-index: 1;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+	}
+
+ .name{
+	position: relative;
+	left: 110px;
+	margin-left: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	background: #4aaaa5;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	color: white;
+
+
+}
+
+
+header nav {
+	left: 600px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header nav ul {
+	margin: 0;
+}
+
+header nav li {
+	float: left;
+	padding: 10px;
+	list-style-type: none;
+	font-size: large;
+}
+
+.limargin {
+
+}
+
+.sidebar {
+	position: relative;
+	float: right;
+	padding: 20px;
+	background-color: #ffffff;
+	left: 200px;
+	top: 75px;
+	width: 270px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.linkimg  {
+	height: 30%;
+	width: 30%;
+	}
+
+	.linkimg:hover {
+		animation: 
+
+
+	}
+
+
+.familyphoto {
+	position: relative;
+	height: 207px;
+    width: 170px;
+	float: left;
+	top: 0px;
+	left: 0;
+}
+
+.content_box  {
+	width: 650px;
+	height: 70%;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	position: relative;
+	left: 100px;
+	top: 75px;
+
+
+
+
+}
+
+.contenth1  {
+	position: relative;
+	top: 0px;
+	left: 15px;
+	padding: 20px;
+	margin-bottom: 20px;
+  	font-size: 25px;
+  	line-height: 0px;
+  	border-bottom: 3px #cccccc solid; 
+  	color: #4aaaa5;
+  	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+
+
+.person_content {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	position: relative;
+	top: 35px;
+	left: 15px;
+	padding: 15px;
+
+
+
+
+
+}
+
+
+.footer {
+		position: fixed;
+		width: 100%;
+		bottom: 0;
+		padding: 15px;
+		background-color: #666666;
+		border-top: 10px #cccccc solid;
+
+}
+
+.footercwrite  {
+				color: #777777;
+				text-align: center;
+				font-size: small;
+
+
+				}
+
+#photo1  {
+	    position: absolute;
+    top: 120px;
+    left: 75px;
+
+}
+
+#photo2 {
+	position: absolute;
+	top: 320px;
+	left: 75px;
+}
+
+#photo3  {
+	position: absolute;
+	top: 120px;
+	right: 75px;
+
+}
+
+#photo4 {
+	position: absolute;
+	top: 320px;
+	right: 75px;
+}
+
+#photo5 {
+	position: absolute;
+	top: 520px;
+	left: 75px;
+}
+
+#hangman
+{position: absolute;
+top: 210px;
+left: 75px;
+background-color: #4aaaa5;
+color: white;
+ padding-left: 33px;
+ padding-right: 30px; 
+font-size: medium;}
+
+#rpggame {
+position: absolute;
+top: 210px;
+right: 75px;
+background-color: #4aaaa5;
+color: white;
+ padding-left: 22px;
+ padding-right: 30px; 
+font-size: medium;
+}
+
+
+#triviagame {
+position: absolute;
+top: 410px;
+left: 75px;
+background-color: #4aaaa5;
+color: white;
+ padding-left: 22px;
+ padding-right: 30px; 
+font-size: medium;
+}
+
+
+ #rutgers{
+position: absolute;
+top: 410px;
+right: 75px;
+background-color: #4aaaa5;
+color: white; 
+font-size: medium;
+}
+
+
+
+#rock  {
+position: absolute;
+top: 610px;
+left: 75px;
+background-color: #4aaaa5;
+color: white;
+font-size: medium;
+}
+
+#message_box {
+	height: 100px;
+	width: 550px;
+
+}
